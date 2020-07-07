@@ -73,8 +73,6 @@ DOCS_IMAGES = \
   docs/troubleshooting_thumb.png  \
   docs/hacking.diagram            \
   docs/hacking.png                \
-  docs/disk_cache.diagram         \
-  docs/disk_cache.png             \
   docs/utp_stack.diagram          \
   docs/utp_stack.png              \
   docs/bitcoin.png                \
